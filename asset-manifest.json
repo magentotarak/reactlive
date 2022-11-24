@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactlive/static/css/main.5000ffef.css",
+    "main.js": "/reactlive/static/js/main.b0dd77ff.js",
+    "index.html": "/reactlive/index.html",
+    "main.5000ffef.css.map": "/reactlive/static/css/main.5000ffef.css.map",
+    "main.b0dd77ff.js.map": "/reactlive/static/js/main.b0dd77ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5000ffef.css",
+    "static/js/main.b0dd77ff.js"
+  ]
+}
